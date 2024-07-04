@@ -1,0 +1,2 @@
+One of the main advantages of using the MVC pattern is that it allows for easy testing and maintenance of the codebase. Since the Model and Controller are separate from the View, it is possible to test and modify each component independently.
+
